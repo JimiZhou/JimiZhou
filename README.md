@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Find me
+I'm a hardware engineer focus on SmartNIC and datacenter X86 server testing & development.
+Most of the repositories are school projects. I'm interested in Linux, DIY PC, embedded IoT systems, smart home...and everything about electronics.
+
+### Find me 📫
 
 - <https://github.com/JimiZhou>
 - <https://jimizhou.com>
