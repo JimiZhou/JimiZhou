@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Find me
+
+- <https://github.com/JimiZhou>
+- <https://jimizhou.com>
+- <jayvzhou@gmail.com>
